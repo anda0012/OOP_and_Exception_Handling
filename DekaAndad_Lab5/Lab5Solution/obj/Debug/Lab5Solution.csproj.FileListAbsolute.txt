@@ -1,0 +1,7 @@
+C:\Users\Deka\Documents\Visual Studio 2017\C#LABS\DekaAndad_Lab5\Lab5Solution\bin\Debug\Lab5Solution.exe.config
+C:\Users\Deka\Documents\Visual Studio 2017\C#LABS\DekaAndad_Lab5\Lab5Solution\bin\Debug\Lab5Solution.exe
+C:\Users\Deka\Documents\Visual Studio 2017\C#LABS\DekaAndad_Lab5\Lab5Solution\bin\Debug\Lab5Solution.pdb
+C:\Users\Deka\Documents\Visual Studio 2017\C#LABS\DekaAndad_Lab5\Lab5Solution\obj\Debug\Lab5Solution.csprojResolveAssemblyReference.cache
+C:\Users\Deka\Documents\Visual Studio 2017\C#LABS\DekaAndad_Lab5\Lab5Solution\obj\Debug\Lab5Solution.csproj.CoreCompileInputs.cache
+C:\Users\Deka\Documents\Visual Studio 2017\C#LABS\DekaAndad_Lab5\Lab5Solution\obj\Debug\Lab5Solution.exe
+C:\Users\Deka\Documents\Visual Studio 2017\C#LABS\DekaAndad_Lab5\Lab5Solution\obj\Debug\Lab5Solution.pdb
